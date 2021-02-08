@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "745328806058",
+    "firebase_url": "https://quest-book-91732.firebaseio.com",
+    "project_id": "quest-book-91732",
+    "storage_bucket": "quest-book-91732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745328806058:android:51561c07262693c2f828d3",
+        "android_client_info": {
+          "package_name": "com.beontop.questbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745328806058-ceta2pflovp4t6751th41gkvksdq6d0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beontop.questbook",
+            "certificate_hash": "3713bec6b1099d3ba4f33a6ec69182caaa23f8da"
+          }
+        },
+        {
+          "client_id": "745328806058-k2711lnot2g5vlpt6qqsvfpk2m79k4qi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beontop.questbook",
+            "certificate_hash": "da97cbeeb5a6eb8d65920a9e66409e7ccfa27447"
+          }
+        },
+        {
+          "client_id": "745328806058-qsmdf120c7ielqpkonbmsibcvof9u1bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiw6Mczh41_m6a7aMJv05Wfbm_q2ofNsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745328806058-qsmdf120c7ielqpkonbmsibcvof9u1bf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745328806058-pkn9332td6f6bivdc732lu21e22uljpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.starsirius.questbook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745328806058:android:3978cd013c1b8432f828d3",
+        "android_client_info": {
+          "package_name": "com.example.quest_book_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745328806058-qsmdf120c7ielqpkonbmsibcvof9u1bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiw6Mczh41_m6a7aMJv05Wfbm_q2ofNsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745328806058-qsmdf120c7ielqpkonbmsibcvof9u1bf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745328806058-pkn9332td6f6bivdc732lu21e22uljpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.starsirius.questbook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745328806058:android:df7b25167dd08688f828d3",
+        "android_client_info": {
+          "package_name": "com.starsirius.questbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745328806058-8hksqdpieiq0fic6e5a2990f054i5dm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starsirius.questbook",
+            "certificate_hash": "da97cbeeb5a6eb8d65920a9e66409e7ccfa27447"
+          }
+        },
+        {
+          "client_id": "745328806058-cg4ajr4bratai6chaqca4c76opfn98a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starsirius.questbook",
+            "certificate_hash": "f2be8829e5d38ecb2d391fc132785b1f947172a9"
+          }
+        },
+        {
+          "client_id": "745328806058-qsmdf120c7ielqpkonbmsibcvof9u1bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiw6Mczh41_m6a7aMJv05Wfbm_q2ofNsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745328806058-qsmdf120c7ielqpkonbmsibcvof9u1bf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745328806058-pkn9332td6f6bivdc732lu21e22uljpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.starsirius.questbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
